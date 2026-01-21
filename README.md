@@ -3,7 +3,7 @@
 ## Proxy Directo (Squid) + Proxy Inverso (NGINX) con Autenticación y TLS
 
 **Asignatura:** Seguridad y Alta Disponibilidad
-**Ciclo:** Administración de Sistemas Informáticos en Red (ASIR)
+**Ciclo:** Administración de Sistemas Informáticos en Red (2 ASIR)
 
 ---
 
